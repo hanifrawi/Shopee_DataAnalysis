@@ -17,7 +17,4 @@ This project analyzes Shopee e-commerce data using **Python and Jupyter Notebook
 - `shopee_data_analysis.ipynb` → Jupyter Notebook file  
 - `shopee_data_analysis.html` → HTML version for easy viewing  
 
-## 🚀 How to Use  
-1. Clone this repo:  
-   ```bash
-   git clone https://github.com/yourusername/shopee_data_analysis.git
+
